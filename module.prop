@@ -1,0 +1,7 @@
+id=VirtualGamingBooster
+name=Virtual Gaming Booster
+version=v3.0
+versionCode=369
+author=LionSinOfPride
+description=The goal of this module is to increase Mediatek powered devices gaming performance by up to 85% but at the same time reduces power usage by up to 35% seamlessly.
+minMagisk=1500
